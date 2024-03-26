@@ -11,7 +11,6 @@
 	- [Built-in commands](#built-in-commands)
 - [Aproach](#aproach)
 - [Shell grammar](#shell-grammar)
-- [Screenshots](#screenshots)
 
 ## Info
 
