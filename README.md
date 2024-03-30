@@ -22,7 +22,7 @@ This project aims to recreate most of the bash shell.
 	- It is compatible with Linux and Mac OS.
 	- It does not use `VT100` escape characters.
 
-*developed by: [izenynn](https://github.com/SandeepKalla)
+*developed by: [SandeepKalla](https://github.com/SandeepKalla)
 
 ## How to use
 
